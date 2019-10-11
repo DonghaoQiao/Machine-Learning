@@ -13,7 +13,7 @@ class LeNet(models.Sequential):
         self.add(layers.AveragePooling2D(pool_size=2, strides=2, padding='valid'))
         # layer 5, fully connected conv layer
         self.add(layers.Conv2D(filters=120, kernel_size=5, strides=1, activation='tanh', padding='valid'))
-        #Flatten the CNN output so that we can connect it with fully connected layers
+        # flatten the CNN output so that we can connect it with fully connected layers
         self.add(layers.Flatten())
         # layer 6, fully connected layer
         self.add(layers.Dense(units=84, activation='tanh'))
