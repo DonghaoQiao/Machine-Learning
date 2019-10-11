@@ -1,5 +1,5 @@
-from tensorflow.keras import models, layers
-import tensorflow.keras as keras
+from tensorflow import keras
+from keras import models, layers
 
 class LeNet(models.Sequential):
     def __init__(self, input_shape, n_classes):
