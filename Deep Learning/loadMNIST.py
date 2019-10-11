@@ -3,7 +3,7 @@ warnings.filterwarnings("ignore")
 
 import numpy as np
 import matplotlib.pyplot as plt
-import tensorflow.keras as keras
+from tensorflow import keras
 
 # load dataset
 (train_x_raw,train_y_raw),(test_x_raw,test_y_raw)=keras.datasets.mnist.load_data()
