@@ -11,3 +11,5 @@
 
 ### RNN(Recurrent Neural Network)
 * LSTM(Long-Short Term Memory)
+
+### [Learning Pytorch](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
