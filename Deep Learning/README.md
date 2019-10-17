@@ -1,6 +1,6 @@
-# Introduction of Deep Learning
-
-### CNN(Convolutional Neural Network)
+# Introduction of Deep Learning  
+  
+### CNN(Convolutional Neural Network)  
 * 1998 [LeNet5 Hello World in CNN](https://github.com/DonghaoQiao/Machine-Learning/blob/master/Deep%20Learning/Keras_LeNet5.py)  
 * 2012 [AlexNet](https://github.com/DonghaoQiao/Machine-Learning/blob/master/Deep%20Learning/Keras_AlexNet.py)  
 * 2014 [VGG16](https://github.com/DonghaoQiao/Machine-Learning/blob/master/Deep%20Learning/Keras_VGG16.py)  
