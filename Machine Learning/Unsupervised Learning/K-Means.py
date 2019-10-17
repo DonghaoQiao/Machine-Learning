@@ -1,8 +1,3 @@
-##############################################################################################
-###                             K-Means Python Implementation                              ###
-###    http://konukoii.com/blog/2017/01/15/5-min-tutorial-k-means-clustering-in-python/    ###
-##############################################################################################
-
 import random
 import math
 
@@ -35,11 +30,7 @@ def kmeans(k,datapoints):
         #for i in range(0,d):
         #    new_cluster += [random.randint(0,10)]
         cluster_centers += [random.choice(datapoints)]
-        
-        
-        #Sometimes The Random points are chosen poorly and so there ends up being empty clusters
-        #In this particular implementation we want to force K exact clusters.
-        #To take this feature off, simply take away "force_recalculation" from the while conditional.
+
         force_recalculation = False
     
     while (cluster != prev_cluster) or (i > Max_Iterations) or (force_recalculation) :
