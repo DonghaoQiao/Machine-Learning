@@ -2,3 +2,5 @@
 
 [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)  
 [中文版](https://rl.qiwihui.com/zh_CN/latest/index.html)  
+[UCB Video](https://www.youtube.com/watch?v=Q4kF8sfggoI&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3)  
+[DeepMind Video](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)  
