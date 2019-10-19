@@ -2,16 +2,17 @@ from torch import nn
 import torch.nn.functional as F
 
 class Net(nn.Module):
-
     def __init__(self):
         super(Net, self).__init__()
         # layer 1, conv layer
         self.conv1 = nn.Conv2d(1, 6, 3)
         # layer 2, conv layer
         self.conv2 = nn.Conv2d(6, 16, 3)
-        # an affine operation: y = Wx + b
+        # layer 3, fully connected layer
         self.fc1 = nn.Linear(16 * 6 * 6, 120)  # 6*6 from image dimension
+        # layer 4, fully connected layer
         self.fc2 = nn.Linear(120, 84)
+        # layer 5, fully connected layer
         self.fc3 = nn.Linear(84, 10)
 
     def forward(self, x):
