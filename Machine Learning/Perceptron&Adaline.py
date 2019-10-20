@@ -33,7 +33,7 @@ class Adaline(object):
                 self.w[1:,yi] += dw*xi
                 self.w[0,yi] += dw
 
-    def net_input(self, x,y):
+    def net_input(self, x, y):
         return np.dot(x, self.w[1:,y]+self.w[0,y])
    
     def predict(self, v):
