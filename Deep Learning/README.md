@@ -1,7 +1,7 @@
 # Introduction of Deep Learning  
   
-### [ANN(Artificial Neural Network)](https://github.com/DonghaoQiao/Machine-Learning/tree/master/Machine%20Learning)  
-### CNN(Convolutional Neural Network)  
+### [ANN](https://github.com/DonghaoQiao/Machine-Learning/tree/master/Machine%20Learning)  
+### CNN  
 * 1998 [LeNet5 Hello World in CNN](https://github.com/DonghaoQiao/Machine-Learning/blob/master/Deep%20Learning/Keras_LeNet5.py)  
 * 2012 [AlexNet](https://github.com/DonghaoQiao/Machine-Learning/blob/master/Deep%20Learning/Keras_AlexNet.py)  
 * 2014 [VGG16](https://github.com/DonghaoQiao/Machine-Learning/blob/master/Deep%20Learning/Keras_VGG16.py)  
@@ -9,10 +9,10 @@
 * 2014 GoogLeNet/Inception  
 * 2015 ResNet  
 * 2017 SENet  
-
-### RNN(Recurrent Neural Network)
-* LSTM(Long-Short Term Memory)
-
-
-### [Learning TensorFlow & Keras](https://www.tensorflow.org/tutorials)
-### [Learning Pytorch](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+  
+### RNN(Recurrent Neural Network)  
+* LSTM  
+  
+  
+### [Learning TensorFlow & Keras](https://www.tensorflow.org/tutorials)  
+### [Learning Pytorch](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)  
