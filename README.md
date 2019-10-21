@@ -8,8 +8,8 @@ My Machine Learning Playground
   
 ## [Deep Learning](https://github.com/DonghaoQiao/Machine-Learning/tree/master/Deep%20Learning)  
 * Convolutional Neural Network (CNN)  
-  * Recurrent Neural Network (RNN)  
-* Long Short-Term Memory (LSTM)  
+* Recurrent Neural Network (RNN)  
+ * Long Short-Term Memory (LSTM)  
   
 ## [Reinforcement Learning](https://github.com/DonghaoQiao/Machine-Learning/tree/master/Reinforcement%20Learning)  
 * Multi-Armed Bandit  
