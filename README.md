@@ -3,17 +3,17 @@ My Machine Learning Playground
   
 ## [Machine Learning](https://github.com/DonghaoQiao/Machine-Learning/tree/master/Machine%20Learning)  
 * [Unsupervised Learning](https://github.com/DonghaoQiao/Machine-Learning/tree/master/Machine%20Learning/Unsupervised%20Learning)  
-* [Artificial Neural Network(ANN)](https://github.com/DonghaoQiao/Machine-Learning/blob/master/Machine%20Learning/Perceptron%26Adaline.py)  
+* [Artificial Neural Network (ANN)](https://github.com/DonghaoQiao/Machine-Learning/blob/master/Machine%20Learning/Perceptron%26Adaline.py)  
 * Tree Based Methods  
   
 ## [Deep Learning](https://github.com/DonghaoQiao/Machine-Learning/tree/master/Deep%20Learning)  
-* Convolutional Neural Network(CNN)  
-* Recurrent Neural Network(RNN)  
-* Long Short-Term Memory(LSTM)  
+* Convolutional Neural Network (CNN)  
+* Recurrent Neural Network (RNN)  
+* Long Short-Term Memory (LSTM)  
   
 ## [Reinforcement Learning](https://github.com/DonghaoQiao/Machine-Learning/tree/master/Reinforcement%20Learning)  
 * Multi-Armed Bandit  
-* Markov Decision Processes(MDP)  
+* Markov Decision Processes (MDP)  
 * Monte Carlo Methods  
 * Temporal-Difference Learning  
 * Sarsa  
