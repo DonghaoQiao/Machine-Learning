@@ -2,7 +2,7 @@
   
 ## [Unsupervised Learning](https://github.com/DonghaoQiao/Machine-Learning/blob/master/Machine%20Learning/Unsupervised%20Learning)  
 * [K-Means](https://github.com/DonghaoQiao/Machine-Learning/blob/master/Machine%20Learning/Unsupervised%20Learning/K-Means.py)  
-* Kohonen Learning  
+* [Kohonen Learning](https://github.com/DonghaoQiao/Machine-Learning/blob/master/Machine%20Learning/Unsupervised%20Learning/Kohonen.py)  
 * Learning Vector Quantizers(LVQ)  
 * Adaptive Resonance Theory(ART)  
 * Self-Organizing Maps(SOM)/Self-Organizing Feature Maps(SOFM)  
