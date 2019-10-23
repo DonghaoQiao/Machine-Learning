@@ -13,9 +13,9 @@
 * [Adaline](https://github.com/DonghaoQiao/Machine-Learning/blob/master/Machine%20Learning/Perceptron%26Adaline.py) uses continuous predicted values to update weights  
 * **Madaline** comnines multiple Adalines  
   
-## KNN  
+## K-Nearest Neighbour(KNN)  
   
-## SVM  
+## Support Vector Machine(SVM)  
   
 ## [Tree Based Methods](https://github.com/DonghaoQiao/Machine-Learning/blob/master/Machine%20Learning/TreeBasedMethodsTimeComparing.ipynb)  
 Test several tree based methods with Iris dataset  
