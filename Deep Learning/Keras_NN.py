@@ -10,5 +10,5 @@ class NN(models.Sequential):
         
         self.compile(loss='categorical_crossentropy', optimizer='SGD', metrics=['accuracy'])
 
-model = NN(([28,28]), 10)
+model = NN(([28*28]), 10)
 print(model.summary())
