@@ -8,7 +8,7 @@
 * 2014 [VGG16](https://github.com/DonghaoQiao/Machine-Learning/blob/master/Deep%20Learning/Keras_VGG16.py)  
 * 2014 [VGG19](https://github.com/DonghaoQiao/Machine-Learning/blob/master/Deep%20Learning/Keras_VGG19.py)  
 * 2014 GoogLeNet/Inception  
-* 2015 ResNet  
+* 2015 ResNet [paper](https://arxiv.org/abs/1611.05431)  
 * 2017 SENet  
   
 ### RNN(Recurrent Neural Network)  
