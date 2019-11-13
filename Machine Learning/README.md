@@ -11,8 +11,8 @@ DBSCAN(Density-based spatial clustering of applications with noise)
 * Principle Component Analysis(PCA) Network  
   
 ## ANN  
-* [Perceptron](https://github.com/DonghaoQiao/Machine-Learning/blob/master/Machine%20Learning/Perceptron%26Adaline.py) uses the class labels to update weights  
-* [Adaline](https://github.com/DonghaoQiao/Machine-Learning/blob/master/Machine%20Learning/Perceptron%26Adaline.py) uses continuous predicted values to update weights  
+* [Perceptron](https://github.com/DonghaoQiao/Machine-Learning/blob/master/Machine%20Learning/Perceptron%26Adaline.py) uses  **class labels** to update weights  
+* [Adaline](https://github.com/DonghaoQiao/Machine-Learning/blob/master/Machine%20Learning/Perceptron%26Adaline.py) uses **continuous predicted values** to update weights  
 * **Madaline** comnines multiple Adalines  
   
 ## K-Nearest Neighbour(KNN)  
