@@ -5,7 +5,7 @@
 K-Means: 一群小弟中随机找K个大哥，小弟们根据关系（距离）找到自己的大哥，小弟们再(用平均值)选举新的K大哥，直到最后K个大哥和K群小弟都满意。  
 DBSCAN(Density-based spatial clustering of applications with noise)  
 * [Kohonen Learning](https://github.com/DonghaoQiao/Machine-Learning/blob/master/Machine%20Learning/Unsupervised%20Learning/Kohonen.py)  
-* Learning Vector Quantizers(LVQ)  
+* [Learning Vector Quantizers(LVQ)](https://github.com/DonghaoQiao/Machine-Learning/blob/master/Machine%20Learning/Unsupervised%20Learning/LVQ.py)  
 * Adaptive Resonance Theory(ART)  
 * Self-Organizing Map(SOM)/Self-Organizing Feature Map(SOFM)  
 * Principle Component Analysis(PCA) Network  
