@@ -2,6 +2,7 @@
   
 ## [Unsupervised Learning](https://github.com/DonghaoQiao/Machine-Learning/blob/master/Machine%20Learning/Unsupervised%20Learning)  
 * [K-Means & DBSCAN](https://github.com/DonghaoQiao/Machine-Learning/blob/master/Machine%20Learning/Unsupervised%20Learning/K-Means.py)  
+K-Means: 一群小弟中随机找K个大哥，每个大哥根据关系（距离）选一群小弟，小弟再选举新的大哥，直到最后选到满意的K个大哥。
 * [Kohonen Learning](https://github.com/DonghaoQiao/Machine-Learning/blob/master/Machine%20Learning/Unsupervised%20Learning/Kohonen.py)  
 * Learning Vector Quantizers(LVQ)  
 * Adaptive Resonance Theory(ART)  
