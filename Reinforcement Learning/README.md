@@ -12,7 +12,8 @@
 * Sarsa  
 * Q-learning  
 
-# [GYM](https://gym.openai.com)
+# [Gym](https://gym.openai.com)  
+[Gym tutorial](https://gym.openai.com/docs/#getting-started-with-gym)  
 Gym is a toolkit for developing and comparing reinforcement learning algorithms. It supports teaching agents everything from walking to playing games like Pong or Pinball.  
 A short example:  
 * [Gym Hello World](https://github.com/DonghaoQiao/Machine-Learning/blob/master/Reinforcement%20Learning/Gym_CartPole.py)  
