@@ -1,3 +1,4 @@
+# Learning Vector Quantization
 class LVQ1(object):
     def __init__(self, lr=0.5, epoch=10):
         self.lr = lr
