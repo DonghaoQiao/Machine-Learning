@@ -12,5 +12,5 @@ My Machine Learning Playground
   * Long Short-Term Memory (LSTM)  
   
 ## [Reinforcement Learning](https://github.com/DonghaoQiao/Machine-Learning/tree/master/Reinforcement%20Learning)  
-* Algorithms examples 
+* Algorithms implementation 
 * Gym environment
