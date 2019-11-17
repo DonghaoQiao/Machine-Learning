@@ -12,9 +12,5 @@ My Machine Learning Playground
   * Long Short-Term Memory (LSTM)  
   
 ## [Reinforcement Learning](https://github.com/DonghaoQiao/Machine-Learning/tree/master/Reinforcement%20Learning)  
-* Multi-Armed Bandit  
-* Markov Decision Processes (MDP)  
-* Monte Carlo Methods  
-* Temporal-Difference Learning  
-* Sarsa  
-* Q-learning  
+* Algorithms examples 
+* Gym environment
