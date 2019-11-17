@@ -1,9 +1,15 @@
 import gym
 
 env = gym.make('CartPole-v0')
-env.reset()
-print(env.step(env.action_space.sample()))
-for _ in range(100):
-	env.render()
-	env.step(env.action_space.sample()) # take a random action
+print('observation size: ', env.observation_space) # observation size:  Box(4,)
+print('action size: ', env.action_space) # action size: Discrete(2)
+for _ in range(10):
+    observation = env.reset()
+    print(observation)
+    for t in range(100):
+        env.render()
+        action = env.action_space.sample()
+        observation, reward, done, info = env.step(action)
+        if done:
+            break
 env.close()
